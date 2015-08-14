@@ -20,7 +20,10 @@ Package: libkf5mime-dev
 Section: libdevel
 Architecture: any
 Multi-Arch: foreign
-Depends: libkf5mime5 (= ${binary:Version}), ${misc:Depends}
+Depends: libboost-dev,
+         libkf5mime5 (= ${binary:Version}),
+         qtbase5-dev,
+         ${misc:Depends}
 Description: library for handling MIME data - development files
  This library provides an API for handling MIME data. MIME (Multipurpose
  Internet Mail Extensions) is an Internet Standard that extends the format
