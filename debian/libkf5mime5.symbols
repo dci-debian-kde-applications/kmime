@@ -1,4 +1,4 @@
-# SymbolsHelper-Confirmed: 4:15.07.90 amd64
+# SymbolsHelper-Confirmed: 4:15.07.90 amd64 i386
 libKF5Mime.so.5 libkf5mime5 #MINVER#
  _Z5qHashRKN5KMime12ContentIndexE@Base 15.07.90
  _ZN10QByteArray7reserveEi@Base 15.07.90
@@ -686,10 +686,10 @@ libKF5Mime.so.5 libkf5mime5 #MINVER#
  _ZN5KMime7MessageD2Ev@Base 15.07.90
  _ZN5KMime8CRLFtoLFEPKc@Base 15.07.90
  _ZN5KMime8CRLFtoLFERK10QByteArray@Base 15.07.90
- _ZN5KMime8CharFreq5countEPKcm@Base 15.07.90
- _ZN5KMime8CharFreqC1EPKcm@Base 15.07.90
+ (subst)_ZN5KMime8CharFreq5countEPKc{size_t}@Base 15.07.90
+ (subst)_ZN5KMime8CharFreqC1EPKc{size_t}@Base 15.07.90
  _ZN5KMime8CharFreqC1ERK10QByteArray@Base 15.07.90
- _ZN5KMime8CharFreqC2EPKcm@Base 15.07.90
+ (subst)_ZN5KMime8CharFreqC2EPKc{size_t}@Base 15.07.90
  _ZN5KMime8CharFreqC2ERK10QByteArray@Base 15.07.90
  _ZN5KMime8LFtoCRLFERK10QByteArray@Base 15.07.90
  _ZN5KMime8isSignedEPNS_7MessageE@Base 15.07.90
