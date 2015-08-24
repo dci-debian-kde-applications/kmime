@@ -1,6 +1,7 @@
 kmime (15.08.0-0ubuntu1) UNRELEASED; urgency=medium
 
-  * Updating symbols file 
+  * New upstream release
+  * Removing epoch in symbols file  
 
  -- Clive Johnston <clivejo@aol.com>  Thu, 20 Aug 2015 13:46:51 +0000
 
