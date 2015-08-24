@@ -1,20 +1,20 @@
-# SymbolsHelper-Confirmed: 4:15.07.90 amd64 i386
+# SymbolsHelper-Confirmed: 15.07.90 amd64 i386
 libKF5Mime.so.5 libkf5mime5 #MINVER#
  _Z5qHashRKN5KMime12ContentIndexE@Base 15.07.90
  _ZN10QByteArray7reserveEi@Base 15.07.90
  _ZN5KMime11NewsArticle10followUpToEb@Base 15.07.90
  _ZN5KMime11NewsArticle10newsgroupsEb@Base 15.07.90
  _ZN5KMime11NewsArticle10supersedesEb@Base 15.07.90
- _ZN5KMime11NewsArticle12headerByTypeEPKc@Base 4:15.07.90
+ _ZN5KMime11NewsArticle12headerByTypeEPKc@Base 15.07.90
  _ZN5KMime11NewsArticle12mailCopiesToEb@Base 15.07.90
- _ZN5KMime11NewsArticle12removeHeaderEPKc@Base 4:15.07.90
+ _ZN5KMime11NewsArticle12removeHeaderEPKc@Base 15.07.90
  _ZN5KMime11NewsArticle15assembleHeadersEv@Base 15.07.90
- _ZN5KMime11NewsArticle15getHeaderByTypeEPKc@Base 4:15.07.90
- _ZN5KMime11NewsArticle5clearEv@Base 4:15.07.90
+ _ZN5KMime11NewsArticle15getHeaderByTypeEPKc@Base 15.07.90
+ _ZN5KMime11NewsArticle5clearEv@Base 15.07.90
  _ZN5KMime11NewsArticle5linesEb@Base 15.07.90
- _ZN5KMime11NewsArticle5parseEv@Base 4:15.07.90
+ _ZN5KMime11NewsArticle5parseEv@Base 15.07.90
  _ZN5KMime11NewsArticle7controlEb@Base 15.07.90
- _ZN5KMime11NewsArticle9setHeaderEPNS_7Headers4BaseE@Base 4:15.07.90
+ _ZN5KMime11NewsArticle9setHeaderEPNS_7Headers4BaseE@Base 15.07.90
  _ZN5KMime11NewsArticleC1Ev@Base 15.07.90
  _ZN5KMime11NewsArticleC2Ev@Base 15.07.90
  _ZN5KMime11NewsArticleD0Ev@Base 15.07.90
@@ -36,12 +36,12 @@ libKF5Mime.so.5 libkf5mime5 #MINVER#
  _ZN5KMime12removeQuotesER10QByteArray@Base 15.07.90
  _ZN5KMime12removeQuotesER7QString@Base 15.07.90
  _ZN5KMime12unfoldHeaderERK10QByteArray@Base 15.07.90
- _ZN5KMime12uniqueStringEv@Base 4:15.07.90
+ _ZN5KMime12uniqueStringEv@Base 15.07.90
  _ZN5KMime13DateFormatter10formatDateENS0_10FormatTypeElRK7QStringb@Base 15.07.90
  _ZN5KMime13DateFormatter10isDaylightEv@Base 15.07.90
  _ZN5KMime13DateFormatter15setCustomFormatERK7QString@Base 15.07.90
  _ZN5KMime13DateFormatter17formatCurrentDateENS0_10FormatTypeERK7QStringb@Base 15.07.90
- _ZN5KMime13DateFormatter5resetEv@Base 4:15.07.90
+ _ZN5KMime13DateFormatter5resetEv@Base 15.07.90
  _ZN5KMime13DateFormatter9mDaylightE@Base 15.07.90
  _ZN5KMime13DateFormatter9setFormatENS0_10FormatTypeE@Base 15.07.90
  _ZN5KMime13DateFormatterC1ENS0_10FormatTypeE@Base 15.07.90
@@ -80,7 +80,7 @@ libKF5Mime.so.5 libkf5mime5 #MINVER#
  _ZN5KMime13hasAttachmentEPNS_7ContentE@Base 15.07.90
  _ZN5KMime13hasInvitationEPNS_7ContentE@Base 15.07.90
  _ZN5KMime14cachedLanguageERK10QByteArray@Base 15.07.90
- _ZN5KMime14extractHeadersERK10QByteArrayS2_@Base 4:15.07.90
+ _ZN5KMime14extractHeadersERK10QByteArrayS2_@Base 15.07.90
  _ZN5KMime15nameForEncodingENS_7Headers15contentEncodingE@Base 15.07.90
  _ZN5KMime16balanceBidiStateERK7QString@Base 15.07.90
  _ZN5KMime16encodingsForDataERK10QByteArray@Base 15.07.90
@@ -96,8 +96,8 @@ libKF5Mime.so.5 libkf5mime5 #MINVER#
  _ZN5KMime23setFallbackCharEncodingERK7QString@Base 15.07.90
  _ZN5KMime28useOutlookAttachmentEncodingEv@Base 15.07.90
  _ZN5KMime31setUseOutlookAttachmentEncodingEb@Base 15.07.90
- _ZN5KMime3MDN14descriptionForENS0_15DispositionTypeERK5QListINS0_19DispositionModifierEE@Base 4:15.07.90
- _ZN5KMime3MDN34dispositionNotificationBodyContentERK7QStringRK10QByteArrayS6_NS0_15DispositionTypeENS0_10ActionModeENS0_11SendingModeERK5QListINS0_19DispositionModifierEES3_@Base 4:15.07.90
+ _ZN5KMime3MDN14descriptionForENS0_15DispositionTypeERK5QListINS0_19DispositionModifierEE@Base 15.07.90
+ _ZN5KMime3MDN34dispositionNotificationBodyContentERK7QStringRK10QByteArrayS6_NS0_15DispositionTypeENS0_10ActionModeENS0_11SendingModeERK5QListINS0_19DispositionModifierEES3_@Base 15.07.90
  _ZN5KMime5Types7Mailbox10setAddressERK10QByteArray@Base 15.07.90
  _ZN5KMime5Types7Mailbox10setAddressERKNS0_8AddrSpecE@Base 15.07.90
  _ZN5KMime5Types7Mailbox14from7BitStringERK10QByteArray@Base 15.07.90
@@ -105,10 +105,10 @@ libKF5Mime.so.5 libkf5mime5 #MINVER#
  _ZN5KMime5Types7Mailbox17fromUnicodeStringERK7QString@Base 15.07.90
  _ZN5KMime5Types7Mailbox7setNameERK7QString@Base 15.07.90
  _ZN5KMime7Content10addContentEPS0_b@Base 15.07.90
- _ZN5KMime7Content10decodeTextEv@Base 4:15.07.90
- _ZN5KMime7Content10nextHeaderER10QByteArray@Base 4:15.07.90
+ _ZN5KMime7Content10decodeTextEv@Base 15.07.90
+ _ZN5KMime7Content10nextHeaderER10QByteArray@Base 15.07.90
  _ZN5KMime7Content10setContentERK10QByteArray@Base 15.07.90
- _ZN5KMime7Content10setContentERK5QListI10QByteArrayE@Base 4:15.07.90
+ _ZN5KMime7Content10setContentERK5QListI10QByteArrayE@Base 15.07.90
  _ZN5KMime7Content11attachmentsEb@Base 15.07.90
  _ZN5KMime7Content11contentTypeEb@Base 15.07.90
  _ZN5KMime7Content11decodedTextEbb@Base 15.07.90
@@ -117,11 +117,11 @@ libKF5Mime.so.5 libkf5mime5 #MINVER#
  _ZN5KMime7Content11setPreambleERK10QByteArray@Base 15.07.90
  _ZN5KMime7Content11textContentEv@Base 15.07.90
  _ZN5KMime7Content12appendHeaderEPNS_7Headers4BaseE@Base 15.07.90
- _ZN5KMime7Content12headerByTypeEPKc@Base 4:15.07.90
+ _ZN5KMime7Content12headerByTypeEPKc@Base 15.07.90
  _ZN5KMime7Content12removeHeaderEPKc@Base 15.07.90
  _ZN5KMime7Content13clearContentsEb@Base 15.07.90
- _ZN5KMime7Content13getNextHeaderER10QByteArray@Base 4:15.07.90
- _ZN5KMime7Content13headersByTypeEPKc@Base 4:15.07.90
+ _ZN5KMime7Content13getNextHeaderER10QByteArray@Base 15.07.90
+ _ZN5KMime7Content13headersByTypeEPKc@Base 15.07.90
  _ZN5KMime7Content13prependHeaderEPNS_7Headers4BaseE@Base 15.07.90
  _ZN5KMime7Content13removeContentEPS0_b@Base 15.07.90
  _ZN5KMime7Content14changeEncodingENS_7Headers15contentEncodingE@Base 15.07.90
@@ -130,7 +130,7 @@ libKF5Mime.so.5 libkf5mime5 #MINVER#
  _ZN5KMime7Content14replaceContentEPS0_S1_@Base 15.07.90
  _ZN5KMime7Content15assembleHeadersEv@Base 15.07.90
  _ZN5KMime7Content15contentLocationEb@Base 15.07.90
- _ZN5KMime7Content15getHeaderByTypeEPKc@Base 4:15.07.90
+ _ZN5KMime7Content15getHeaderByTypeEPKc@Base 15.07.90
  _ZN5KMime7Content17fromUnicodeStringERK7QString@Base 15.07.90
  _ZN5KMime7Content17setDefaultCharsetERK10QByteArray@Base 15.07.90
  _ZN5KMime7Content18contentDescriptionEb@Base 15.07.90
@@ -144,22 +144,22 @@ libKF5Mime.so.5 libkf5mime5 #MINVER#
  _ZN5KMime7Content7setBodyERK10QByteArray@Base 15.07.90
  _ZN5KMime7Content7setHeadERK10QByteArray@Base 15.07.90
  _ZN5KMime7Content8assembleEv@Base 15.07.90
- _ZN5KMime7Content8toStreamER11QTextStreamb@Base 4:15.07.90
+ _ZN5KMime7Content8toStreamER11QTextStreamb@Base 15.07.90
  _ZN5KMime7Content9contentIDEb@Base 15.07.90
- _ZN5KMime7Content9hasHeaderEPKc@Base 4:15.07.90
+ _ZN5KMime7Content9hasHeaderEPKc@Base 15.07.90
  _ZN5KMime7Content9setFrozenEb@Base 15.07.90
  _ZN5KMime7Content9setHeaderEPNS_7Headers4BaseE@Base 15.07.90
  _ZN5KMime7Content9setParentEPS0_@Base 15.07.90
- _ZN5KMime7ContentC1EPNS_14ContentPrivateE@Base 4:15.07.90
+ _ZN5KMime7ContentC1EPNS_14ContentPrivateE@Base 15.07.90
  _ZN5KMime7ContentC1EPS0_@Base 15.07.90
- _ZN5KMime7ContentC1ERK10QByteArrayS3_@Base 4:15.07.90
+ _ZN5KMime7ContentC1ERK10QByteArrayS3_@Base 15.07.90
  _ZN5KMime7ContentC1ERK10QByteArrayS3_PS0_@Base 15.07.90
- _ZN5KMime7ContentC1Ev@Base 4:15.07.90
- _ZN5KMime7ContentC2EPNS_14ContentPrivateE@Base 4:15.07.90
+ _ZN5KMime7ContentC1Ev@Base 15.07.90
+ _ZN5KMime7ContentC2EPNS_14ContentPrivateE@Base 15.07.90
  _ZN5KMime7ContentC2EPS0_@Base 15.07.90
- _ZN5KMime7ContentC2ERK10QByteArrayS3_@Base 4:15.07.90
+ _ZN5KMime7ContentC2ERK10QByteArrayS3_@Base 15.07.90
  _ZN5KMime7ContentC2ERK10QByteArrayS3_PS0_@Base 15.07.90
- _ZN5KMime7ContentC2Ev@Base 4:15.07.90
+ _ZN5KMime7ContentC2Ev@Base 15.07.90
  _ZN5KMime7ContentD0Ev@Base 15.07.90
  _ZN5KMime7ContentD1Ev@Base 15.07.90
  _ZN5KMime7ContentD2Ev@Base 15.07.90
@@ -177,7 +177,7 @@ libKF5Mime.so.5 libkf5mime5 #MINVER#
  _ZN5KMime7Headers10Newsgroups17fromUnicodeStringERK7QStringRK10QByteArray@Base 15.07.90
  _ZN5KMime7Headers10Newsgroups5clearEv@Base 15.07.90
  _ZN5KMime7Headers10Newsgroups5parseERPKcS3_b@Base 15.07.90
- _ZN5KMime7Headers10Newsgroups9setGroupsERK5QListI10QByteArrayE@Base 4:15.07.90
+ _ZN5KMime7Headers10Newsgroups9setGroupsERK5QListI10QByteArrayE@Base 15.07.90
  _ZN5KMime7Headers10NewsgroupsC1EPNS_7ContentE@Base 15.07.90
  _ZN5KMime7Headers10NewsgroupsC1EPNS_7ContentERK10QByteArray@Base 15.07.90
  _ZN5KMime7Headers10NewsgroupsC1EPNS_7ContentERK7QStringRK10QByteArray@Base 15.07.90
@@ -677,9 +677,9 @@ libKF5Mime.so.5 libkf5mime5 #MINVER#
  _ZN5KMime7Message9inReplyToEb@Base 15.07.90
  _ZN5KMime7Message9messageIDEb@Base 15.07.90
  _ZN5KMime7Message9userAgentEb@Base 15.07.90
- _ZN5KMime7MessageC1EPNS_14MessagePrivateE@Base 4:15.07.90
+ _ZN5KMime7MessageC1EPNS_14MessagePrivateE@Base 15.07.90
  _ZN5KMime7MessageC1Ev@Base 15.07.90
- _ZN5KMime7MessageC2EPNS_14MessagePrivateE@Base 4:15.07.90
+ _ZN5KMime7MessageC2EPNS_14MessagePrivateE@Base 15.07.90
  _ZN5KMime7MessageC2Ev@Base 15.07.90
  _ZN5KMime7MessageD0Ev@Base 15.07.90
  _ZN5KMime7MessageD1Ev@Base 15.07.90
@@ -724,7 +724,7 @@ libKF5Mime.so.5 libkf5mime5 #MINVER#
  _ZNK5KMime5Types8AddrSpec8asStringEv@Base 15.07.90
  _ZNK5KMime7Content10hasContentEv@Base 15.07.90
  _ZNK5KMime7Content10isTopLevelEv@Base 15.07.90
- _ZNK5KMime7Content10rawHeadersEPKc@Base 4:15.07.90
+ _ZNK5KMime7Content10rawHeadersEPKc@Base 15.07.90
  _ZNK5KMime7Content11storageSizeEv@Base 15.07.90
  _ZNK5KMime7Content13bodyAsMessageEv@Base 15.07.90
  _ZNK5KMime7Content13bodyIsMessageEv@Base 15.07.90
@@ -742,7 +742,7 @@ libKF5Mime.so.5 libkf5mime5 #MINVER#
  _ZNK5KMime7Content8preambleEv@Base 15.07.90
  _ZNK5KMime7Content8topLevelEv@Base 15.07.90
  _ZNK5KMime7Content9lineCountEv@Base 15.07.90
- _ZNK5KMime7Content9rawHeaderEPKc@Base 4:15.07.90
+ _ZNK5KMime7Content9rawHeaderEPKc@Base 15.07.90
  _ZNK5KMime7Headers10FollowUpTo4typeEv@Base 15.07.90
  _ZNK5KMime7Headers10Newsgroups12as7BitStringEb@Base 15.07.90
  _ZNK5KMime7Headers10Newsgroups13isCrosspostedEv@Base 15.07.90
@@ -871,7 +871,7 @@ libKF5Mime.so.5 libkf5mime5 #MINVER#
  _ZNK5KMime7Headers9InReplyTo4typeEv@Base 15.07.90
  _ZNK5KMime7Headers9MessageID4typeEv@Base 15.07.90
  _ZNK5KMime7Headers9UserAgent4typeEv@Base 15.07.90
- _ZNK5KMime7Message10isTopLevelEv@Base 4:15.07.90
+ _ZNK5KMime7Message10isTopLevelEv@Base 15.07.90
  _ZNK5KMime8CharFreq14hasLeadingFromEv@Base 15.07.90
  _ZNK5KMime8CharFreq14isEightBitDataEv@Base 15.07.90
  _ZNK5KMime8CharFreq14isEightBitTextEv@Base 15.07.90
