@@ -1,0 +1,16 @@
+kmime (15.08.0-0ubuntu1) wily; urgency=medium
+
+  * New upstream release
+  * Removing epoch in symbols file  
+
+ -- Clive Johnston <clivejo@aol.com>  Wed, 26 Aug 2015 17:30:33 +0100
+
+kmime (15.07.90-0ubuntu1) wily; urgency=medium
+
+  [ Harald Sitter ]
+  * Initial release
+
+  [ Jonathan Riddell ]
+  * new upstream beta release
+
+ -- Jonathan Riddell <jriddell@ubuntu.com>  Tue, 18 Aug 2015 10:34:28 +0100
