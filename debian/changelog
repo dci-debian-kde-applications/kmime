@@ -2,6 +2,7 @@ kmime (15.08.0-1~) UNRELEASED; urgency=medium
 
   * Initial Debian release.
   * New patch: missing_headers
+  * New patch: disable_failing_tests
 
  -- Maximiliano Curia <maxy@debian.org>  Mon, 07 Sep 2015 23:42:25 +0200
 
