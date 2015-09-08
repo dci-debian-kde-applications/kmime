@@ -1,10 +1,10 @@
-kmime (15.08.0-1~) UNRELEASED; urgency=medium
+kmime (15.08.0-1) experimental; urgency=medium
 
   * Initial Debian release.
   * New patch: missing_headers
   * New patch: disable_failing_tests
 
- -- Maximiliano Curia <maxy@debian.org>  Mon, 07 Sep 2015 23:42:25 +0200
+ -- Maximiliano Curia <maxy@debian.org>  Tue, 08 Sep 2015 14:48:52 +0200
 
 kmime (15.08.0-0ubuntu1) wily; urgency=medium
 
