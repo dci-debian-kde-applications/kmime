@@ -1,3 +1,9 @@
+kmime (15.08.3-0ubuntu1) UNRELEASED; urgency=medium
+
+  * New upstream bugfix release
+
+ -- Scarlett Clark <sgclark@kubuntu.org>  Tue, 10 Nov 2015 17:13:05 -0800
+
 kmime (15.08.2-0ubuntu1) wily; urgency=medium
 
   * Vivid backport
