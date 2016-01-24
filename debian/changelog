@@ -1,3 +1,9 @@
+kmime (15.12.0-0ubuntu1) UNRELEASED; urgency=medium
+
+  * New upstream release
+
+ -- Clive Johnston <clivejo@aol.com>  Sat, 02 Jan 2016 14:03:29 +0000
+
 kmime (15.08.2-1) experimental; urgency=medium
 
   * New upstream release (15.08.2).
@@ -17,6 +23,20 @@ kmime (15.08.0-1) experimental; urgency=medium
   * New patch: disable_failing_tests
 
  -- Maximiliano Curia <maxy@debian.org>  Tue, 08 Sep 2015 14:48:52 +0200
+
+kmime (15.08.2-0ubuntu1) wily; urgency=medium
+
+  * Vivid backport
+  * New upstream release
+
+ -- Scarlett Clark <sgclark@kubuntu.org>  Wed, 14 Oct 2015 12:34:17 +0100
+
+kmime (15.08.1-0ubuntu1) wily; urgency=medium
+
+  * New upstream release (15.08.1)
+  * Updating symbols and removing MISSING
+
+ -- Clive Johnston <clivejo@aol.com>  Tue, 22 Sep 2015 17:08:23 +0100
 
 kmime (15.08.0-0ubuntu1) wily; urgency=medium
 
