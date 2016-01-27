@@ -1,13 +1,11 @@
 Index: kmime/includes/CMakeLists.txt
 ===================================================================
---- kmime.orig/includes/CMakeLists.txt	2015-09-07 23:12:04.594831155 +0200
-+++ kmime/includes/CMakeLists.txt	2015-09-08 11:09:41.806996483 +0200
-@@ -1,9 +1,7 @@
+--- kmime.orig/includes/CMakeLists.txt	2016-01-27 21:16:26.741764242 +0100
++++ kmime/includes/CMakeLists.txt	2016-01-27 21:16:47.012937970 +0100
+@@ -1,7 +1,6 @@
  # The KMime headers names are prepended with kmime_ to avoid name clashes.
  # We can't use ecm_generate_headers if the CamelCase header doesn't match the filename
  set(KMime_HEADERS
--  BoolFlags
-   CharFreq
 -  Codecs
    Content
    ContentIndex
