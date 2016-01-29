@@ -3,13 +3,13 @@ Upstream-Name: kmime
 Source: http://download.kde.org/pub/kde/unstable/applications/
 
 Files: *
-Copyright: 2009 Constantin Berzan <exit3219@gmail.com>
-           2006 Volker Krause <vkrause@kde.org>
-           2015 Albert Astals Cid <aacid@kde.org>
-           2005 Ingo Kloecker <kloecker@kde.org>
-           2001-2002 Marc Mutz <mutz@kde.org>
-           2001 the KMime authors
-           2009 Thomas McGuire <mcguire@kde.org>
+Copyright: 2015, Albert Astals Cid <aacid@kde.org>
+           2009, Constantin Berzan <exit3219@gmail.com>
+           2005, Ingo Kloecker <kloecker@kde.org>
+           2001-2002, Marc Mutz <mutz@kde.org>
+           2009, Thomas McGuire <mcguire@kde.org>
+           2006-2015, Volker Krause <vkrause@kde.org>
+           2001-2002, the KMime authors
 License: LGPL-2+
 
 Files: autotests/utiltest.cpp
