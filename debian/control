@@ -45,18 +45,3 @@ Description: library for handling MIME data
  character sets.
  .
  This package is part of the KDE Development Platform PIM libraries module.
-
-Package: libkf5mime-dbg
-Section: debug
-Priority: extra
-Architecture: any
-Multi-Arch: same
-Depends: libkf5mime5 (= ${binary:Version}), ${misc:Depends}
-Description: library for handling MIME data - debug symbols
- This library provides an API for handling MIME data. MIME (Multipurpose
- Internet Mail Extensions) is an Internet Standard that extends the format
- of e-mail to support text in character sets other than US-ASCII, non-text
- attachments, multi-part message bodies, and header information in non-ASCII
- character sets.
- .
- This package contains the debug symbols.
