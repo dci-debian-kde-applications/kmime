@@ -6,6 +6,7 @@ kmime (15.12.1-0ubuntu1) UNRELEASED; urgency=medium
   * Remove build dep boost, was removed upstream back in August,
     and we are have strange failures in kdepim-runtime with boost
     share_ptr. 
+  * No change: rebuild with new akonadi-search. 
 
  -- Scarlett Clark <sgclark@kubuntu.org>  Fri, 29 Jan 2016 10:01:06 -0800
 
