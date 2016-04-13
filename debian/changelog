@@ -1,12 +1,13 @@
-kmime (15.12.0-2~2.gbpd2ba15) UNRELEASED; urgency=medium
+kmime (15.12.0-2~3.gbp23bff8) UNRELEASED; urgency=medium
 
-  ** SNAPSHOT build @d2ba159294301cc584c47aeec91d01f90466f0a4 **
+  ** SNAPSHOT build @23bff8848e696608dc8a733fa9c2f602842d055e **
 
   * Bump Standards-Version to 3.9.8
   * Update symbols files from buildds logs (15.12.0-1).
   * Update symbols files.
+  * Update symbols files.
 
- -- Automatic packaging <maxy+jenkins@gnuservers.com.ar>  Wed, 13 Apr 2016 14:06:44 +0200
+ -- Automatic packaging <maxy+jenkins@gnuservers.com.ar>  Wed, 13 Apr 2016 17:40:54 +0200
 
 kmime (15.12.0-1) experimental; urgency=medium
 
