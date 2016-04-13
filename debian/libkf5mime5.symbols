@@ -1,4 +1,4 @@
-# SymbolsHelper-Confirmed: 15.12.0 amd64 x32
+# SymbolsHelper-Confirmed: 15.12.0 amd64 i386 x32
 libKF5Mime.so.5 libkf5mime5 #MINVER#
  _ZN10QByteArray7reserveEi@Base 15.07.90
  _ZN5KMime11NewsArticle10followUpToEb@Base 15.07.90
@@ -497,7 +497,7 @@ libKF5Mime.so.5 libkf5mime5 #MINVER#
  _ZNK5KMime12ContentIndexeqERKS0_@Base 15.07.90
  _ZNK5KMime12ContentIndexneERKS0_@Base 15.07.90
  _ZNK5KMime13DateFormatter10dateStringERK9QDateTimeRK7QStringb@Base 15.07.90
- (subst)_ZNK5KMime13DateFormatter10dateStringE{int64_t}RK7QStringb@Base 15.07.90
+ (subst|arch=x32)_ZNK5KMime13DateFormatter10dateStringE{int64_t}RK7QStringb@Base 15.12.0
  _ZNK5KMime13DateFormatter12customFormatEv@Base 15.07.90
  _ZNK5KMime13DateFormatter6formatEv@Base 15.07.90
  _ZNK5KMime5Types7Mailbox10hasAddressEv@Base 15.07.90
