@@ -32,7 +32,8 @@ libKF5Mime.so.5 libkf5mime5 #MINVER#
  _ZN5KMime12removeQuotesER10QByteArray@Base 15.07.90
  _ZN5KMime12removeQuotesER7QString@Base 15.07.90
  _ZN5KMime12unfoldHeaderERK10QByteArray@Base 15.07.90
- (subst)_ZN5KMime13DateFormatter10formatDateENS0_10FormatTypeE{long}RK7QStringb@Base 15.12.0
+ (arch=!x32)_ZN5KMime13DateFormatter10formatDateENS0_10FormatTypeElRK7QStringb@Base 15.12.0
+ (subst)_ZN5KMime13DateFormatter10formatDateENS0_10FormatTypeE{int64_t}RK7QStringb@Base 15.12.0
  _ZN5KMime13DateFormatter15setCustomFormatERK7QString@Base 15.07.90
  _ZN5KMime13DateFormatter17formatCurrentDateENS0_10FormatTypeERK7QStringb@Base 15.07.90
  _ZN5KMime13DateFormatter9setFormatENS0_10FormatTypeE@Base 15.07.90
@@ -497,7 +498,8 @@ libKF5Mime.so.5 libkf5mime5 #MINVER#
  _ZNK5KMime12ContentIndexeqERKS0_@Base 15.07.90
  _ZNK5KMime12ContentIndexneERKS0_@Base 15.07.90
  _ZNK5KMime13DateFormatter10dateStringERK9QDateTimeRK7QStringb@Base 15.07.90
- (subst)_ZNK5KMime13DateFormatter10dateStringE{long}RK7QStringb@Base 15.12.0
+ (arch=!x32)_ZNK5KMime13DateFormatter10dateStringElRK7QStringb@Base 15.12.0
+ (subst|arch=x32)_ZNK5KMime13DateFormatter10dateStringE{int64_t}RK7QStringb@Base 15.12.0
  _ZNK5KMime13DateFormatter12customFormatEv@Base 15.07.90
  _ZNK5KMime13DateFormatter6formatEv@Base 15.07.90
  _ZNK5KMime5Types7Mailbox10hasAddressEv@Base 15.07.90
