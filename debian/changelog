@@ -1,6 +1,6 @@
-kmime (15.12.0-2~7.gbp548c5c) UNRELEASED; urgency=medium
+kmime (15.12.0-2~8.gbp530250) UNRELEASED; urgency=medium
 
-  ** SNAPSHOT build @548c5c63c6250521f53889c94ae78c58fc7b98d1 **
+  ** SNAPSHOT build @530250a2c348202dae6c57c71d2fd2ea9816f836 **
 
   * Bump Standards-Version to 3.9.8
   * Update symbols files from buildds logs (15.12.0-1).
@@ -10,8 +10,10 @@ kmime (15.12.0-2~7.gbp548c5c) UNRELEASED; urgency=medium
   * Update symbols files.
   * Update symbols files
   * Update symbols files
+  * Update symbols file
+  * Update symbols files.
 
- -- Automatic packaging <maxy+jenkins@gnuservers.com.ar>  Thu, 14 Apr 2016 10:35:43 +0200
+ -- Automatic packaging <maxy+jenkins@gnuservers.com.ar>  Thu, 14 Apr 2016 10:42:14 +0200
 
 kmime (15.12.0-1) experimental; urgency=medium
 
