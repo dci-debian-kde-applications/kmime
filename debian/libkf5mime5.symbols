@@ -33,7 +33,7 @@ libKF5Mime.so.5 libkf5mime5 #MINVER#
  _ZN5KMime12removeQuotesER7QString@Base 15.07.90
  _ZN5KMime12unfoldHeaderERK10QByteArray@Base 15.07.90
  (arch=!x32)_ZN5KMime13DateFormatter10formatDateENS0_10FormatTypeElRK7QStringb@Base 15.12.0
- (subst)_ZN5KMime13DateFormatter10formatDateENS0_10FormatTypeE{int64_t}RK7QStringb@Base 15.12.0
+ (subst|arch=x32)_ZN5KMime13DateFormatter10formatDateENS0_10FormatTypeE{int64_t}RK7QStringb@Base 15.12.0
  _ZN5KMime13DateFormatter15setCustomFormatERK7QString@Base 15.07.90
  _ZN5KMime13DateFormatter17formatCurrentDateENS0_10FormatTypeERK7QStringb@Base 15.07.90
  _ZN5KMime13DateFormatter9setFormatENS0_10FormatTypeE@Base 15.07.90
