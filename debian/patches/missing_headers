@@ -1,7 +1,16 @@
-Index: kmime/includes/CMakeLists.txt
+From: Debian/Kubuntu Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>
+Date: Thu, 21 Apr 2016 00:55:13 +0200
+Subject: missing_headers
+
 ===================================================================
---- kmime.orig/includes/CMakeLists.txt	2016-01-27 21:16:26.741764242 +0100
-+++ kmime/includes/CMakeLists.txt	2016-01-27 21:16:47.012937970 +0100
+---
+ includes/CMakeLists.txt | 1 -
+ 1 file changed, 1 deletion(-)
+
+diff --git a/includes/CMakeLists.txt b/includes/CMakeLists.txt
+index 6d3eeff..dd30706 100644
+--- a/includes/CMakeLists.txt
++++ b/includes/CMakeLists.txt
 @@ -1,7 +1,6 @@
  # The KMime headers names are prepended with kmime_ to avoid name clashes.
  # We can't use ecm_generate_headers if the CamelCase header doesn't match the filename
