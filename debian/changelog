@@ -1,6 +1,6 @@
-kmime (15.12.0-2~8.gbp530250) UNRELEASED; urgency=medium
+kmime (16.04.0-1~1.gbpc7dca9) UNRELEASED; urgency=medium
 
-  ** SNAPSHOT build @530250a2c348202dae6c57c71d2fd2ea9816f836 **
+  ** SNAPSHOT build @c7dca9be022e4f8372dfbcd3343ef240e8019c70 **
 
   * Bump Standards-Version to 3.9.8
   * Update symbols files from buildds logs (15.12.0-1).
@@ -12,8 +12,11 @@ kmime (15.12.0-2~8.gbp530250) UNRELEASED; urgency=medium
   * Update symbols files
   * Update symbols file
   * Update symbols files.
+  * Add a .gitattributes file to use dpkg-mergechangelogs
+  * Update build-deps and deps with the info from cmake
+  * Refresh patches
 
- -- Automatic packaging <maxy+jenkins@gnuservers.com.ar>  Thu, 14 Apr 2016 10:42:14 +0200
+ -- Automatic packaging <maxy+jenkins@gnuservers.com.ar>  Thu, 21 Apr 2016 00:55:16 +0200
 
 kmime (15.12.0-1) experimental; urgency=medium
 
