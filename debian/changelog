@@ -1,5 +1,8 @@
-kmime (16.04.0-1~1.gbpc7dca9) UNRELEASED; urgency=medium
+kmime (16.04.0-1~2.gbp6e1a56) UNRELEASED; urgency=medium
 
+  ** SNAPSHOT build @6e1a56799819de8d26a1497d188884364cd8a92f **
+
+  [ Automatic packaging ]
   ** SNAPSHOT build @c7dca9be022e4f8372dfbcd3343ef240e8019c70 **
 
   * Bump Standards-Version to 3.9.8
@@ -16,7 +19,13 @@ kmime (16.04.0-1~1.gbpc7dca9) UNRELEASED; urgency=medium
   * Update build-deps and deps with the info from cmake
   * Refresh patches
 
- -- Automatic packaging <maxy+jenkins@gnuservers.com.ar>  Thu, 21 Apr 2016 00:55:16 +0200
+  [ Maximiliano Curia ]
+  * Replace the "Historical name" ddeb-migration by its "Modern, clearer" replacement dbgsym-migration.
+  * Add upstream metadata (DEP-12)
+  * debian/control: Update Vcs-Browser and Vcs-Git fields
+  * Update install files
+
+ -- Maximiliano Curia <maxy@gnuservers.com.ar>  Fri, 22 Apr 2016 00:20:51 +0200
 
 kmime (15.12.0-1) experimental; urgency=medium
 
