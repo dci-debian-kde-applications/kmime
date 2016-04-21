@@ -1,8 +1,17 @@
-Index: kmime/autotests/dateformattertest.cpp
+From: Debian/Kubuntu Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>
+Date: Thu, 21 Apr 2016 00:55:13 +0200
+Subject: disable_failing_tests
+
 ===================================================================
---- kmime.orig/autotests/dateformattertest.cpp	2015-09-07 23:12:04.590831316 +0200
-+++ kmime/autotests/dateformattertest.cpp	2015-09-08 13:07:39.582519365 +0200
-@@ -37,10 +37,10 @@
+---
+ autotests/dateformattertest.cpp | 4 ++--
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+
+diff --git a/autotests/dateformattertest.cpp b/autotests/dateformattertest.cpp
+index c3e352f..25d054b 100644
+--- a/autotests/dateformattertest.cpp
++++ b/autotests/dateformattertest.cpp
+@@ -37,10 +37,10 @@ private Q_SLOTS:
  
          auto dt = QDateTime::currentDateTime();
          dt.setTime(QTime(12, 34, 56));
