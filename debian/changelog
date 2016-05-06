@@ -1,20 +1,8 @@
-kmime (16.04.0-1~2.gbp6e1a56) UNRELEASED; urgency=medium
-
-  ** SNAPSHOT build @6e1a56799819de8d26a1497d188884364cd8a92f **
+kmime (16.04.0-1) experimental; urgency=medium
 
   [ Automatic packaging ]
-  ** SNAPSHOT build @c7dca9be022e4f8372dfbcd3343ef240e8019c70 **
-
   * Bump Standards-Version to 3.9.8
   * Update symbols files from buildds logs (15.12.0-1).
-  * Update symbols files.
-  * Update symbols files.
-  * Update symbols files.
-  * Update symbols files.
-  * Update symbols files
-  * Update symbols files
-  * Update symbols file
-  * Update symbols files.
   * Add a .gitattributes file to use dpkg-mergechangelogs
   * Update build-deps and deps with the info from cmake
   * Refresh patches
@@ -25,7 +13,7 @@ kmime (16.04.0-1~2.gbp6e1a56) UNRELEASED; urgency=medium
   * debian/control: Update Vcs-Browser and Vcs-Git fields
   * Update install files
 
- -- Maximiliano Curia <maxy@gnuservers.com.ar>  Fri, 22 Apr 2016 00:20:51 +0200
+ -- Maximiliano Curia <maxy@debian.org>  Fri, 06 May 2016 19:37:34 +0200
 
 kmime (15.12.0-1) experimental; urgency=medium
 
