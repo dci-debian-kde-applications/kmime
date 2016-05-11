@@ -1,6 +1,6 @@
-kmime (16.04.0-2~3.gbpc53637) UNRELEASED; urgency=medium
+kmime (16.04.0-2~4.gbp7d2718) UNRELEASED; urgency=medium
 
-  ** SNAPSHOT build @c53637f373ecc0db1bc162693bf2d60ff47d88cf **
+  ** SNAPSHOT build @7d2718919cbba2ff076f4e9ae0851077c151f3ce **
 
   [ Automatic packaging ]
   ** SNAPSHOT build @d3a472a0006e57be805d12c555e5ca16ee4579b5 **
@@ -10,8 +10,9 @@ kmime (16.04.0-2~3.gbpc53637) UNRELEASED; urgency=medium
 
   [ Maximiliano Curia ]
   * Update symbols files
+  * UNRELEASED
 
- -- Maximiliano Curia <maxy@gnuservers.com.ar>  Sat, 07 May 2016 09:55:19 +0200
+ -- Maximiliano Curia <jenkins@amadeus.gnuservers.com.ar>  Wed, 11 May 2016 06:55:09 +0200
 
 kmime (16.04.0-1) experimental; urgency=medium
 
