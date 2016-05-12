@@ -1,6 +1,6 @@
-kmime (16.04.0-2~7.gbp8eba94) UNRELEASED; urgency=medium
+kmime (16.04.1-1~1.gbp8fb31c) UNRELEASED; urgency=medium
 
-  ** SNAPSHOT build @8eba94809fef443ed0ee33e225f04869ff97f594 **
+  ** SNAPSHOT build @8fb31ce74748473f196fe6a8d293003dbde38fa8 **
 
   [ Automatic packaging ]
   ** SNAPSHOT build @d3a472a0006e57be805d12c555e5ca16ee4579b5 **
@@ -14,8 +14,9 @@ kmime (16.04.0-2~7.gbp8eba94) UNRELEASED; urgency=medium
   * UNRELEASED
   * UNRELEASED
   * UNRELEASED
+  * UNRELEASED
 
- -- Maximiliano Curia <jenkins@amadeus.gnuservers.com.ar>  Thu, 12 May 2016 12:55:15 +0200
+ -- Maximiliano Curia <jenkins@amadeus.gnuservers.com.ar>  Thu, 12 May 2016 18:55:09 +0200
 
 kmime (16.04.0-1) experimental; urgency=medium
 
