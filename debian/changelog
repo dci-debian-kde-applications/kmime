@@ -3,18 +3,11 @@ kmime (16.04.1-1~1.gbp8fb31c) UNRELEASED; urgency=medium
   ** SNAPSHOT build @8fb31ce74748473f196fe6a8d293003dbde38fa8 **
 
   [ Automatic packaging ]
-  ** SNAPSHOT build @d3a472a0006e57be805d12c555e5ca16ee4579b5 **
-
   * Update symbols files from buildds logs (16.04.0-1).
   * Update symbols files.
 
   [ Maximiliano Curia ]
   * Update symbols files
-  * UNRELEASED
-  * UNRELEASED
-  * UNRELEASED
-  * UNRELEASED
-  * UNRELEASED
 
  -- Maximiliano Curia <jenkins@amadeus.gnuservers.com.ar>  Thu, 12 May 2016 18:55:09 +0200
 
