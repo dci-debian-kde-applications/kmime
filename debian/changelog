@@ -1,6 +1,4 @@
-kmime (16.04.1-1~2.gbpfb2ebf) UNRELEASED; urgency=medium
-
-  ** SNAPSHOT build @fb2ebfc162915df48cd8768bf6a16bafca1390d6 **
+kmime (16.04.1-1) unstable; urgency=medium
 
   [ Automatic packaging ]
   * Update symbols files from buildds logs (16.04.0-1).
@@ -10,7 +8,7 @@ kmime (16.04.1-1~2.gbpfb2ebf) UNRELEASED; urgency=medium
   [ Maximiliano Curia ]
   * Update symbols files
 
- -- Automatic packaging <maxy+jenkins@gnuservers.com.ar>  Thu, 12 May 2016 20:34:28 +0200
+ -- Maximiliano Curia <maxy@debian.org>  Wed, 18 May 2016 16:47:55 +0200
 
 kmime (16.04.0-1) experimental; urgency=medium
 
