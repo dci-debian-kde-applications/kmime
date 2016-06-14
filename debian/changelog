@@ -1,3 +1,11 @@
+kmime (16.04.2-1~1.gbpbeeb76) UNRELEASED; urgency=medium
+
+  ** SNAPSHOT build @beeb76790a294ed32149d0406fb9ce1ca31a0cf9 **
+
+  * UNRELEASED
+
+ -- Maximiliano Curia <jenkins@gnuservers.com.ar>  Wed, 15 Jun 2016 00:55:23 +0200
+
 kmime (16.04.1-1) unstable; urgency=medium
 
   [ Automatic packaging ]
