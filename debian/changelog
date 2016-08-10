@@ -1,3 +1,9 @@
+kmime (16.07.80-0) UNRELEASED; urgency=medium
+
+  * Neon build version bump
+
+ -- Jonathan Riddell <jriddell@ubuntu.com>  Wed, 10 Aug 2016 11:27:08 +0100
+
 kmime (16.04.2-1) unstable; urgency=medium
 
   * New upstream release.
