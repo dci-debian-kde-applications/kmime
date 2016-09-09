@@ -1,6 +1,6 @@
-kmime (16.08.0-1~1.gbp292e0c) UNRELEASED; urgency=medium
+kmime (16.08.1-1~1.gbpc1cee9) UNRELEASED; urgency=medium
 
-  ** SNAPSHOT build @292e0cfcc2ee96fde5d248e2f6b9bdae3da5be5b **
+  ** SNAPSHOT build @c1cee966176cb88d8f809f2d1865ff7b8f75f545 **
 
   [ Maximiliano Curia ]
   ** SNAPSHOT build @4b35df17238da5c25ee61d80e5cdbe788b89a707 **
@@ -9,8 +9,9 @@ kmime (16.08.0-1~1.gbp292e0c) UNRELEASED; urgency=medium
 
   [ Automatic packaging ]
   * Update build-deps and deps with the info from cmake
+  * UNRELEASED
 
- -- Automatic packaging <maxy+jenkins@gnuservers.com.ar>  Fri, 19 Aug 2016 00:55:14 +0200
+ -- Automatic packaging <jenkins@gnuservers.com.ar>  Fri, 09 Sep 2016 13:19:32 +0200
 
 kmime (16.04.2-1) unstable; urgency=medium
 
