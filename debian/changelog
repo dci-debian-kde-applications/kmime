@@ -1,3 +1,10 @@
+kmime (17.08.0-1~) UNRELEASED; urgency=medium
+
+  * New upstream release (17.08.0)
+  * testsuite: use dbus instead of dbus-x11
+
+ -- Maximiliano Curia <maxy@debian.org>  Mon, 21 Aug 2017 11:11:25 +0200
+
 kmime (17.08.0-0neon) xenial; urgency=medium
 
   * New release
