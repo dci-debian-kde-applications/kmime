@@ -1,4 +1,4 @@
-# SymbolsHelper-Confirmed: 16.04.0 amd64 arm64 armel armhf hppa hurd-i386 i386 kfreebsd-amd64 kfreebsd-i386 powerpc ppc64el
+# SymbolsHelper-Confirmed: 17.08.0 amd64
 libKF5Mime.so.5 libkf5mime5 #MINVER#
  _ZN10QByteArray7reserveEi@Base 15.07.90
  _ZN5KMime11NewsArticle10followUpToEb@Base 15.07.90
@@ -503,7 +503,6 @@ libKF5Mime.so.5 libkf5mime5 #MINVER#
  _ZNK5KMime5Types7Mailbox10hasAddressEv@Base 15.07.90
  _ZNK5KMime5Types7Mailbox12as7BitStringERK10QByteArray@Base 15.07.90
  _ZNK5KMime5Types7Mailbox13prettyAddressENS1_7QuotingE@Base 15.07.90
- _ZNK5KMime5Types7Mailbox13prettyAddressEv@Base 15.07.90
  _ZNK5KMime5Types7Mailbox4nameEv@Base 15.07.90
  _ZNK5KMime5Types7Mailbox7addressEv@Base 15.07.90
  _ZNK5KMime5Types7Mailbox7hasNameEv@Base 15.07.90
