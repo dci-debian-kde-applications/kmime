@@ -10,7 +10,7 @@ Build-Depends: cmake (>= 2.8.12~),
                libkf5codecs-dev (>= 5.23.0~),
                libkf5i18n-dev (>= 5.23.0~),
                pkg-kde-tools (>> 0.15.15),
-               qtbase5-dev (>= 5.2.0)
+               qtbase5-dev (>= 5.2.0),
 Standards-Version: 4.0.1
 Homepage: https://projects.kde.org/projects/kde/pim/kmime
 Vcs-Browser: https://anonscm.debian.org/git/pkg-kde/applications/kmime.git
@@ -23,7 +23,7 @@ Multi-Arch: foreign
 Depends: libboost-dev (>= 1.49~),
          libkf5mime5 (= ${binary:Version}),
          qtbase5-dev (>= 5.2.0~),
-         ${misc:Depends}
+         ${misc:Depends},
 Description: library for handling MIME data - development files
  This library provides an API for handling MIME data. MIME (Multipurpose
  Internet Mail Extensions) is an Internet Standard that extends the format
