@@ -1,9 +1,15 @@
-kmime (17.08.0-1~) UNRELEASED; urgency=medium
+kmime (17.08.0-1) experimental; urgency=medium
 
   * New upstream release (17.08.0)
   * testsuite: use dbus instead of dbus-x11
+  * Bump Standards-Version to 4.0.1.
+  * Update upstream metadata
+  * Update build-deps and deps with the info from cmake
+  * Update symbols files
+  * Bump group breaks (17.08)
+  * Release to experimental
 
- -- Maximiliano Curia <maxy@debian.org>  Mon, 21 Aug 2017 11:11:25 +0200
+ -- Maximiliano Curia <maxy@debian.org>  Fri, 01 Sep 2017 22:13:30 +0200
 
 kmime (17.08.0-0neon) xenial; urgency=medium
 
