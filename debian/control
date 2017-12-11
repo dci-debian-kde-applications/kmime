@@ -19,7 +19,7 @@ Vcs-Git: https://anonscm.debian.org/git/pkg-kde/applications/kmime.git
 Package: libkf5mime-dev
 Section: libdevel
 Architecture: any
-Multi-Arch: foreign
+Multi-Arch: same
 Depends: libboost-dev (>= 1.49~),
          libkf5mime5 (= ${binary:Version}),
          qtbase5-dev (>= 5.7.0~),
