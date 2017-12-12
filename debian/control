@@ -47,8 +47,6 @@ Depends: ${misc:Depends}, ${shlibs:Depends}
 Breaks: accountwizard (<< 4:17.08),
         akonadiconsole (<< 4:17.08),
         kalarm (<< 4:17.08),
-        kde-l10n-ast (<< 4:17.03.90-0~),
-        kde-l10n-eo (<< 4:17.03.90-0~),
         kdepim-addons (<< 17.08),
         kdepim-runtime (<< 4:17.08),
         kdepim-themeeditors (<< 4:17.08),
@@ -74,9 +72,7 @@ Breaks: accountwizard (<< 4:17.08),
         libkf5messageviewer5 (<< 4:17.08),
         libkf5templateparser5 (<< 4:17.08),
         ${kde-l10n:all},
-Replaces: kde-l10n-ast (<< 4:17.03.90-0~),
-          kde-l10n-eo (<< 4:17.03.90-0~),
-          ${kde-l10n:all},
+Replaces: ${kde-l10n:all}
 Description: library for handling MIME data
  This library provides an API for handling MIME data. MIME (Multipurpose
  Internet Mail Extensions) is an Internet Standard that extends the format
