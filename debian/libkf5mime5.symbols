@@ -1,4 +1,4 @@
-# SymbolsHelper-Confirmed: 17.08.0 amd64
+# SymbolsHelper-Confirmed: 17.12.0 amd64
 libKF5Mime.so.5 libkf5mime5 #MINVER#
  _ZN10QByteArray7reserveEi@Base 15.07.90
  _ZN5KMime11NewsArticle10followUpToEb@Base 15.07.90
@@ -31,6 +31,7 @@ libKF5Mime.so.5 libkf5mime5 #MINVER#
  _ZN5KMime12isInvitationEPNS_7ContentE@Base 15.07.90
  _ZN5KMime12removeQuotesER10QByteArray@Base 15.07.90
  _ZN5KMime12removeQuotesER7QString@Base 15.07.90
+ _ZN5KMime12unfoldHeaderEPKcm@Base 17.12.0
  _ZN5KMime12unfoldHeaderERK10QByteArray@Base 15.07.90
  (subst)_ZN5KMime13DateFormatter10formatDateENS0_10FormatTypeE{time_t}RK7QStringb@Base 16.04.0
  _ZN5KMime13DateFormatter15setCustomFormatERK7QString@Base 15.07.90
@@ -41,8 +42,8 @@ libKF5Mime.so.5 libkf5mime5 #MINVER#
  _ZN5KMime13DateFormatterD1Ev@Base 15.07.90
  _ZN5KMime13DateFormatterD2Ev@Base 15.07.90
  _ZN5KMime13HeaderParsing10parseGroupERPKcS2_RNS_5Types7AddressEb@Base 15.07.90
- _ZN5KMime13HeaderParsing10parseTokenERPKcS2_R5QPairIS2_iEb@Base 15.07.90
- _ZN5KMime13HeaderParsing10parseTokenERPKcS2_R7QStringb@Base 15.07.90
+ _ZN5KMime13HeaderParsing10parseTokenERPKcS2_R5QPairIS2_iE6QFlagsINS0_14ParseTokenFlagEE@Base 17.12.0
+ _ZN5KMime13HeaderParsing10parseTokenERPKcS2_R7QString6QFlagsINS0_14ParseTokenFlagEE@Base 17.12.0
  _ZN5KMime13HeaderParsing11parseDigitsERPKcS2_Ri@Base 15.07.90
  _ZN5KMime13HeaderParsing11parseDomainERPKcS2_R7QStringb@Base 15.07.90
  _ZN5KMime13HeaderParsing11parsePhraseERPKcS2_R7QStringb@Base 15.07.90
@@ -253,6 +254,7 @@ libKF5Mime.so.5 libkf5mime5 #MINVER#
  _ZN5KMime7Headers3BccD0Ev@Base 15.07.90
  _ZN5KMime7Headers3BccD1Ev@Base 15.07.90
  _ZN5KMime7Headers3BccD2Ev@Base 15.07.90
+ _ZN5KMime7Headers4Base14from7BitStringEPKcm@Base 17.12.0
  _ZN5KMime7Headers4Base17setRFC2047CharsetERK10QByteArray@Base 15.07.90
  _ZN5KMime7Headers4BaseC1EPNS0_11BasePrivateE@Base 15.12.0
  _ZN5KMime7Headers4BaseC1Ev@Base 15.12.0
@@ -301,10 +303,10 @@ libKF5Mime.so.5 libkf5mime5 #MINVER#
  _ZN5KMime7Headers7ControlD1Ev@Base 15.07.90
  _ZN5KMime7Headers7ControlD2Ev@Base 15.07.90
  _ZN5KMime7Headers7Generic5clearEv@Base 15.07.90
- _ZN5KMime7Headers7Generic7setTypeEPKc@Base 15.07.90
- _ZN5KMime7Headers7GenericC1EPKc@Base 15.07.90
+ _ZN5KMime7Headers7Generic7setTypeEPKci@Base 17.12.0
+ _ZN5KMime7Headers7GenericC1EPKci@Base 17.12.0
  _ZN5KMime7Headers7GenericC1Ev@Base 15.07.90
- _ZN5KMime7Headers7GenericC2EPKc@Base 15.07.90
+ _ZN5KMime7Headers7GenericC2EPKci@Base 17.12.0
  _ZN5KMime7Headers7GenericC2Ev@Base 15.07.90
  _ZN5KMime7Headers7GenericD0Ev@Base 15.07.90
  _ZN5KMime7Headers7GenericD1Ev@Base 15.07.90
@@ -328,6 +330,7 @@ libKF5Mime.so.5 libkf5mime5 #MINVER#
  _ZN5KMime7Headers8Generics10PhraseListD0Ev@Base 15.07.90
  _ZN5KMime7Headers8Generics10PhraseListD1Ev@Base 15.07.90
  _ZN5KMime7Headers8Generics10PhraseListD2Ev@Base 15.07.90
+ _ZN5KMime7Headers8Generics10Structured14from7BitStringEPKcm@Base 17.12.0
  _ZN5KMime7Headers8Generics10Structured14from7BitStringERK10QByteArray@Base 15.07.90
  _ZN5KMime7Headers8Generics10Structured17fromUnicodeStringERK7QStringRK10QByteArray@Base 15.07.90
  _ZN5KMime7Headers8Generics10StructuredC1EPNS1_17StructuredPrivateE@Base 15.12.0
@@ -399,6 +402,7 @@ libKF5Mime.so.5 libkf5mime5 #MINVER#
  _ZN5KMime7Headers8Generics5Ident16appendIdentifierERK10QByteArray@Base 15.07.90
  _ZN5KMime7Headers8Generics5Ident5clearEv@Base 15.07.90
  _ZN5KMime7Headers8Generics5Ident5parseERPKcS4_b@Base 15.07.90
+ _ZN5KMime7Headers8Generics5Ident9fromIdentEPKS2_@Base 17.12.0
  _ZN5KMime7Headers8Generics5IdentC1EPNS1_12IdentPrivateE@Base 15.12.0
  _ZN5KMime7Headers8Generics5IdentC1Ev@Base 15.12.0
  _ZN5KMime7Headers8Generics5IdentC2EPNS1_12IdentPrivateE@Base 15.12.0
@@ -523,6 +527,7 @@ libKF5Mime.so.5 libkf5mime5 #MINVER#
  _ZNK5KMime7Content5indexEv@Base 15.07.90
  _ZNK5KMime7Content6parentEv@Base 15.07.90
  _ZNK5KMime7Content7contentERKNS_12ContentIndexE@Base 15.07.90
+ _ZNK5KMime7Content7headersEv@Base 17.12.0
  _ZNK5KMime7Content8contentsEv@Base 15.07.90
  _ZNK5KMime7Content8epilogueEv@Base 15.07.90
  _ZNK5KMime7Content8isFrozenEv@Base 15.07.90
