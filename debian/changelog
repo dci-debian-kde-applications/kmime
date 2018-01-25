@@ -6,6 +6,7 @@ kmime (17.12.1-1) UNRELEASED; urgency=medium
   * Update symbols files for 17.12.0.
   * Update copyright
   * Remove autopkgtest in favour of build tests.
+  * Enable auto tests.
 
  -- Debian/Kubuntu Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>  Sat, 23 Dec 2017 10:25:02 +0100
 
