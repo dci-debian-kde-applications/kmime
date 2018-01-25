@@ -12,20 +12,41 @@ Copyright: 2015, Albert Astals Cid <aacid@kde.org>
            2001-2002, the KMime authors
 License: LGPL-2+
 
-Files: autotests/utiltest.cpp
+Files: autotests/attachmenttest.cpp
+       autotests/attachmenttest.h
        autotests/rfc2047test.cpp
-       autotests/utiltest.h
        autotests/rfc2047test.h
-       autotests/rfc2231test.h
        autotests/rfc2231test.cpp
-Copyright: 2006 Volker Krause <vkrause@kde.org>
-           2010 Leo Franchi <lfranchi@kde.org>
+       autotests/rfc2231test.h
+       autotests/utiltest.cpp
+       autotests/utiltest.h
+Copyright: 2010, Leo Franchi <lfranchi@kde.org>
+           2006-2015, Volker Krause <vkrause@kde.org>
 License: LGPL-2
 
-Files: debian/*
-Copyright: 2015 Harald Sitter <sitter@kde.org>
-           2017 Sandro Knauß <hefee@debian.org>
-License: LGPL-2+
+Files: po/ca/*
+       po/ca@valencia/*
+       po/uk/*
+Copyright: 2014, KDE e.V.
+License: LGPL-2.1+3+KDEeV
+
+License: LGPL-2
+ This library is free software; you can redistribute it and/or
+ modify it under the terms of the GNU Library General Public
+ License version 2 as published by the Free Software Foundation.
+ .
+ This library is distributed in the hope that it will be useful,
+ but WITHOUT ANY WARRANTY; without even the implied warranty of
+ MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU
+ Library General Public License for more details.
+ .
+ You should have received a copy of the GNU Library General Public License
+ along with this library; see the file COPYING.LIB.  If not, write to
+ the Free Software Foundation, Inc., 51 Franklin Street, Fifth Floor,
+  Boston, MA 02110-1301, USA.
+ .
+ On Debian systems, the complete text of the GNU Library General Public
+ License version 2 can be found in `/usr/share/common-licenses/LGPL-2'.
 
 License: LGPL-2+
  This library is free software; you can redistribute it and/or
@@ -46,20 +67,12 @@ License: LGPL-2+
  On Debian systems, the complete text of the GNU Library General
  Public License version 2 can be found in "/usr/share/common-licenses/LGPL-2".
 
-License: LGPL-2
- This library is free software; you can redistribute it and/or
- modify it under the terms of the GNU Library General Public
- License version 2 as published by the Free Software Foundation.
+License: LGPL-2.1+3+KDEeV
+ This file is distributed under the license LGPL version 2.1 or
+ version 3 or later versions approved by the membership of KDE e.V.
  .
- This library is distributed in the hope that it will be useful,
- but WITHOUT ANY WARRANTY; without even the implied warranty of
- MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU
- Library General Public License for more details.
+ On Debian systems, the complete text of the GNU Library General
+ Public License version 2.1 can be found in "/usr/share/common-licenses/LGPL-2.1".
  .
- You should have received a copy of the GNU Library General Public License
- along with this library; see the file COPYING.LIB.  If not, write to
- the Free Software Foundation, Inc., 51 Franklin Street, Fifth Floor,
-  Boston, MA 02110-1301, USA.
- .
- On Debian systems, the complete text of the GNU Library General Public
- License version 2 can be found in `/usr/share/common-licenses/LGPL-2'.
+ On Debian systems, the complete text of the GNU Library General
+ Public License version 3 can be found in "/usr/share/common-licenses/LGPL-3".
