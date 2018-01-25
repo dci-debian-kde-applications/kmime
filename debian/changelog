@@ -7,6 +7,9 @@ kmime (17.12.1-1) UNRELEASED; urgency=medium
   * Update copyright
   * Remove autopkgtest in favour of build tests.
   * Enable auto tests.
+  * Use DebianABIManager to handle libkf5mime5 properly.
+  * Update library from libkf5mime5 -> libkf5mime5abi1, because of ABI
+    breakage.
 
  -- Debian/Kubuntu Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>  Sat, 23 Dec 2017 10:25:02 +0100
 
