@@ -24,6 +24,7 @@ License: LGPL-2
 
 Files: debian/*
 Copyright: 2015 Harald Sitter <sitter@kde.org>
+           2017 Sandro Knauß <hefee@debian.org>
 License: LGPL-2+
 
 License: LGPL-2+
