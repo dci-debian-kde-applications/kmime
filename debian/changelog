@@ -10,6 +10,8 @@ kmime (17.12.1-1) UNRELEASED; urgency=medium
   * Use DebianABIManager to handle libkf5mime5 properly.
   * Update library from libkf5mime5 -> libkf5mime5abi1, because of ABI
     breakage.
+  * split arch independet data out of libkf5mime5 and create new package
+    named libkf5mime-data.
 
  -- Debian/Kubuntu Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>  Sat, 23 Dec 2017 10:25:02 +0100
 
